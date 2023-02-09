@@ -14,6 +14,16 @@
 	align-items: center;
 }
 
+.title {
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+	padding: 10px;
+	margin: 10px;
+	gap: 20px;
+}
+
 .calculator {
 	background: #3a4452;
 	padding: 20px;
